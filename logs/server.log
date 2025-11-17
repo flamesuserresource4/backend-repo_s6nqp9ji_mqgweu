@@ -1,0 +1,30 @@
+INFO:     Will watch for changes in these directories: ['/home/workspace']
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [246] using StatReload
+INFO:     Started server process [248]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     172.20.0.1:54168 - "GET /api/surveys HTTP/1.1" 200 OK
+INFO:     172.20.0.1:54168 - "GET /api/surveys HTTP/1.1" 200 OK
+INFO:     172.20.0.1:54182 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     172.20.0.1:46210 - "POST /api/datasets/upload HTTP/1.1" 200 OK
+INFO:     172.20.0.1:46226 - "POST /api/datasets/upload HTTP/1.1" 200 OK
+INFO:     172.20.0.1:46238 - "POST /api/datasets/upload HTTP/1.1" 200 OK
+INFO:     172.20.0.1:46246 - "POST /api/datasets/upload HTTP/1.1" 200 OK
+INFO:     172.20.0.1:46252 - "POST /api/datasets/upload HTTP/1.1" 200 OK
+INFO:     172.20.0.1:46256 - "POST /api/datasets/upload HTTP/1.1" 200 OK
+INFO:     172.20.0.1:46210 - "POST /api/datasets/upload HTTP/1.1" 200 OK
+INFO:     172.20.0.1:46226 - "OPTIONS /api/surveys HTTP/1.1" 200 OK
+INFO:     172.20.0.1:46238 - "OPTIONS /api/surveys HTTP/1.1" 200 OK
+INFO:     172.20.0.1:46246 - "OPTIONS /api/surveys HTTP/1.1" 200 OK
+INFO:     172.20.0.1:46252 - "OPTIONS /api/surveys HTTP/1.1" 200 OK
+INFO:     172.20.0.1:46256 - "OPTIONS /api/surveys HTTP/1.1" 200 OK
+INFO:     172.20.0.1:46210 - "OPTIONS /api/surveys HTTP/1.1" 200 OK
+INFO:     172.20.0.1:46226 - "OPTIONS /api/surveys HTTP/1.1" 200 OK
+INFO:     172.20.0.1:46252 - "POST /api/surveys HTTP/1.1" 200 OK
+INFO:     172.20.0.1:46256 - "POST /api/surveys HTTP/1.1" 200 OK
+INFO:     172.20.0.1:46238 - "POST /api/surveys HTTP/1.1" 200 OK
+INFO:     172.20.0.1:46246 - "POST /api/surveys HTTP/1.1" 200 OK
+INFO:     172.20.0.1:46226 - "POST /api/surveys HTTP/1.1" 200 OK
+INFO:     172.20.0.1:46252 - "POST /api/surveys HTTP/1.1" 200 OK
+INFO:     172.20.0.1:46210 - "POST /api/surveys HTTP/1.1" 200 OK
